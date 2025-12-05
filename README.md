@@ -93,19 +93,19 @@ User-friendly layout for input and output
 📸 Screenshots
 🧮 Simplex Optimal Solution
 
-(Insert your image here)
+
 
 🔍 Sensitivity Analysis
 
-(Insert your image here)
+
 
 👷 Assignment Results
 
-(Insert your image here)
+
 
 🚚 Transportation Plan
 
-(Insert your image here)
+
 
 🛠️ How to Run the Project
 1. Clone the Repository
